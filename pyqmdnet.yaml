@@ -1,0 +1,27 @@
+name: pyqmdnet
+dependencies:
+- python=3.9
+- pip:
+  - charset-normalizer==2.1.1
+  - contourpy==1.0.5
+  - cycler==0.11.0
+  - fonttools==4.37.4
+  - idna==3.4
+  - joblib==1.2.0
+  - kiwisolver==1.4.4
+  - matplotlib==3.6.1
+  - numpy==1.23.3
+  - opencv-python==4.6.0.66
+  - packaging==21.3
+  - pillow==9.2.0
+  - pyparsing==3.0.9
+  - python-dateutil==2.8.2
+  - pyyaml==6.0
+  - requests==2.28.1
+  - scikit-learn==1.1.2
+  - scipy==1.9.2
+  - six==1.16.0
+  - threadpoolctl==3.1.0
+  - typing-extensions==4.4.0
+  - urllib3==1.26.12
+  - xmltodict==0.13.0
